@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 Welcome to TechItAll Serivces!
-### **⚠️ !Organization Lockdown! ⚠️**
 
 **IMPORANT: Pardon Are Dust. We are making changes and are updating on github!**
 
